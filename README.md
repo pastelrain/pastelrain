@@ -10,4 +10,4 @@ Seoul National University 24
 
 [![CodeForces Profile](https://cf.leed.at?id=pastelrain)](https://codeforces.com/profile/pastelrain})
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=pleiades1)](https://solved.ac/pleiades1)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=pleiades1)](https://solved.ac/profile/pleiades1)
