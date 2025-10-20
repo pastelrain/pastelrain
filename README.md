@@ -1,16 +1,13 @@
-## Hi there 👋
+## 👋 Hi, I’m @PastelRain
 
-<!--
-**pastelrain/pastelrain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Seoul National University 24
+- Integrative Data Science
+- Department of Mathematical Sciences
+- More coming soon...?
 
-Here are some ideas to get you started:
+- Music Producer (as Paletter / Solatine)
+- Manager of 7 School Clubs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![CodeForces Profile](https://cf.leed.at?id=pastelrain)](https://codeforces.com/profile/pastelrain})
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=pleiades1)](https://solved.ac/pleiades1)
